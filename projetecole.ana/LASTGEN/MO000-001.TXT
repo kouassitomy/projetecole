@@ -1,0 +1,13 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+etudiant		NFI		nouveau fichier
+inscription		NFI		nouveau fichier
+dossier		NFI		nouveau fichier
+tuteur		NFI		nouveau fichier
+paiement		NFI		nouveau fichier
+cycle		NFI		nouveau fichier
+niveau		NFI		nouveau fichier
+Filière		NFI		nouveau fichier
+Contrainte_etudiant_inscription		NWL	etudiant (IDetudiant) et inscription (IDetudiant)	Nouvelle liaison entre les fichiers etudiant (IDetudiant) et inscription (IDetudiant)
+Contrainte_etudiant_dossier		NWL	etudiant (IDetudiant) et dossier (IDetudiant)	Nouvelle liaison entre les fichiers etudiant (IDetudiant) et dossier (IDetudiant)
+Contrainte_etudiant_tuteur		NWL	tuteur (IDtuteur) et etudiant (IDtuteur)	Nouvelle liaison entre les fichiers tuteur (IDtuteur) et etudiant (IDtuteur)
+Contrainte_paiement_etudiant		NWL	paiement (IDpaiement) et etudiant (IDpaiement)	Nouvelle liaison entre les fichiers paiement (IDpaiement) et etudiant (IDpaiement)

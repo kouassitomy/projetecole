@@ -1,0 +1,20 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Filière		TAR	170	nouvelle taille enregistrement : 170
+Filière	Descp	RUB+		Descp est une nouvelle rubrique
+Planning		TAR	214	nouvelle taille enregistrement : 214
+Planning	refplan	RUB+		refplan est une nouvelle clé
+Planning	Datedeb	RUB+		Datedeb est une nouvelle rubrique
+Planning	Datefin	RUB+		Datefin est une nouvelle rubrique
+Planning	libeplan	RUB+		libeplan est une nouvelle rubrique
+Planning	Heuredeb	RUB+		Heuredeb est une nouvelle rubrique
+Planning	Heurefin	RUB+		Heurefin est une nouvelle rubrique
+Planning	datjours	RUB+		datjours est une nouvelle rubrique
+Année_Academique		TAR	384	nouvelle taille enregistrement : 384
+Année_Academique	Ann	RUB+		Ann est une nouvelle clé
+Année_Academique	Slogan	RUB+		Slogan est une nouvelle rubrique
+Année_Academique	Anndeb	RUB+		Anndeb est une nouvelle rubrique
+Année_Academique	Annfin	RUB+		Annfin est une nouvelle rubrique
+Année_Academique	Debsemst1	RUB+		Debsemst1 est une nouvelle rubrique
+Année_Academique	Debsemst2	RUB+		Debsemst2 est une nouvelle rubrique
+Année_Academique	Finsemst1	RUB+		Finsemst1 est une nouvelle rubrique
+Année_Academique	Finsemst2	RUB+		Finsemst2 est une nouvelle rubrique

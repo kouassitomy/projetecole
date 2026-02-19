@@ -1,0 +1,22 @@
+# fichiers temporaires windev
+*.cpl
+*.err
+*.wsp
+*.tps
+*.fic
+*.ndx
+*.mmo
+*.log
+
+# dossiers compilation
+Exe/
+Backup/
+Temp/
+
+#fichiers locaux
+*.ini
+*.cfg
+
+# fichiers windows
+thumbs.db
+desktop.ini

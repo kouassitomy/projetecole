@@ -1,0 +1,31 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Professeur		TAR	298	nouvelle taille enregistrement : 298
+Professeur	IDPersonnel	RUB+		IDPersonnel est une nouvelle clé
+Planning		TAR	33	nouvelle taille enregistrement : 33
+Planning	IDSalle	RUB+		IDSalle est une nouvelle clé
+Planning	IDAnnée_Academique	RUB+		IDAnnée_Academique est une nouvelle clé
+Passage		NFI		nouveau fichier
+Syllabus		NFI		nouveau fichier
+Disponibilité		NFI		nouveau fichier
+Cours		NFI		nouveau fichier
+Personnel		NFI		nouveau fichier
+Fondateur		NFI		nouveau fichier
+Ecole		NFI		nouveau fichier
+Salaire		NFI		nouveau fichier
+Enseigner		NFI		nouveau fichier
+Peut_Avoir		NFI		nouveau fichier
+Contrainte_Professeur_Cours		NWL	Professeur (IDProfesseur) et Cours (IDProfesseur)	Nouvelle liaison entre les fichiers Professeur (IDProfesseur) et Cours (IDProfesseur)
+Contrainte_Cours_Salle		NWL	Salle (IDSalle) et Cours (IDSalle)	Nouvelle liaison entre les fichiers Salle (IDSalle) et Cours (IDSalle)
+Contrainte_Salle_Planning		NWL	Salle (IDSalle) et Planning (IDSalle)	Nouvelle liaison entre les fichiers Salle (IDSalle) et Planning (IDSalle)
+Contrainte_Planning_Année_Academique		NWL	Année_Academique (IDAnnée_Academique) et Planning (IDAnnée_Academique)	Nouvelle liaison entre les fichiers Année_Academique (IDAnnée_Academique) et Planning (IDAnnée_Academique)
+Contrainte_Professeur_Disponibilité		NWL	Professeur (IDProfesseur) et Disponibilité (IDProfesseur)	Nouvelle liaison entre les fichiers Professeur (IDProfesseur) et Disponibilité (IDProfesseur)
+Contrainte_Professeur_Syllabus		NWL	Professeur (IDProfesseur) et Syllabus (IDProfesseur)	Nouvelle liaison entre les fichiers Professeur (IDProfesseur) et Syllabus (IDProfesseur)
+Contrainte_Passage_Professeur		NWL	Professeur (IDProfesseur) et Passage (IDProfesseur)	Nouvelle liaison entre les fichiers Professeur (IDProfesseur) et Passage (IDProfesseur)
+Contrainte_Professeur_Filière		NWL	Professeur (IDProfesseur) et Enseigner (IDProfesseur)	Nouvelle liaison entre les fichiers Professeur (IDProfesseur) et Enseigner (IDProfesseur)
+Contrainte_Filière_Professeur		NWL	Filière (IDFilière) et Enseigner (IDFilière)	Nouvelle liaison entre les fichiers Filière (IDFilière) et Enseigner (IDFilière)
+Contrainte_Professeur_Personnel		NWL	Personnel (IDPersonnel) et Professeur (IDPersonnel)	Nouvelle liaison entre les fichiers Personnel (IDPersonnel) et Professeur (IDPersonnel)
+Contrainte_Personnel_Salaire		NWL	Personnel (IDPersonnel) et Salaire (IDPersonnel)	Nouvelle liaison entre les fichiers Personnel (IDPersonnel) et Salaire (IDPersonnel)
+Contrainte_Ecole_Personnel		NWL	Ecole (IDEcole) et Personnel (IDEcole)	Nouvelle liaison entre les fichiers Ecole (IDEcole) et Personnel (IDEcole)
+Contrainte_Personnel_Fondateur		NWL	Fondateur (IDFondateur) et Personnel (IDFondateur)	Nouvelle liaison entre les fichiers Fondateur (IDFondateur) et Personnel (IDFondateur)
+Contrainte_Ecole_Fondateur		NWL	Ecole (IDEcole) et Peut_Avoir (IDEcole)	Nouvelle liaison entre les fichiers Ecole (IDEcole) et Peut_Avoir (IDEcole)
+Contrainte_Fondateur_Ecole		NWL	Fondateur (IDFondateur) et Peut_Avoir (IDFondateur)	Nouvelle liaison entre les fichiers Fondateur (IDFondateur) et Peut_Avoir (IDFondateur)

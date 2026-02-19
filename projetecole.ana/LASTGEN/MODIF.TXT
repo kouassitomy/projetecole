@@ -1,0 +1,6 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+cycle_Filière		TAR	76	nouvelle taille enregistrement : 76
+cycle_Filière	NbreFilierecycle	RUB+		NbreFilierecycle est une nouvelle rubrique
+Concerner		NNF*	modules_Filière	nouveau nom Concerner
+Concerner		TAR	41	nouvelle taille enregistrement : 41
+Concerner	NbreModFiliere	RUB+		NbreModFiliere est une nouvelle rubrique

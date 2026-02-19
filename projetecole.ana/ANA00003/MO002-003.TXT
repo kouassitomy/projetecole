@@ -1,0 +1,17 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+cycle_Filière		NFI		nouveau fichier
+Constituer		NFI		nouveau fichier
+modules		NFI		nouveau fichier
+Professeur		NFI		nouveau fichier
+Planning		NFI		nouveau fichier
+modules_Filière		NFI		nouveau fichier
+Salle		NFI		nouveau fichier
+Année_Academique		NFI		nouveau fichier
+Contrainte_Filière_niveau		NWL	Filière (IDFilière) et Constituer (IDFilière)	Nouvelle liaison entre les fichiers Filière (IDFilière) et Constituer (IDFilière)
+Contrainte_niveau_Filière		NWL	niveau (IDniveau) et Constituer (IDniveau)	Nouvelle liaison entre les fichiers niveau (IDniveau) et Constituer (IDniveau)
+Contrainte_cycle_Filière		NWL	cycle (IDcycle) et cycle_Filière (IDcycle)	Nouvelle liaison entre les fichiers cycle (IDcycle) et cycle_Filière (IDcycle)
+Contrainte_Filière_cycle		NWL	Filière (IDFilière) et cycle_Filière (IDFilière)	Nouvelle liaison entre les fichiers Filière (IDFilière) et cycle_Filière (IDFilière)
+Contrainte_modules_Filière		NWL	modules (IDmodules) et modules_Filière (IDmodules)	Nouvelle liaison entre les fichiers modules (IDmodules) et modules_Filière (IDmodules)
+Contrainte_Filière_modules		NWL	Filière (IDFilière) et modules_Filière (IDFilière)	Nouvelle liaison entre les fichiers Filière (IDFilière) et modules_Filière (IDFilière)
+Contrainte_modules_Professeur		NWL	Professeur (IDProfesseur) et modules (IDProfesseur)	Nouvelle liaison entre les fichiers Professeur (IDProfesseur) et modules (IDProfesseur)
+Constituer		FRN		

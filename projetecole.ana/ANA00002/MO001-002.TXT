@@ -1,0 +1,6 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+niveau		TAR	59	nouvelle taille enregistrement : 59
+niveau	numniv	NNR	numniveau	ATTENTION : la clé numniveau a pour nouveau nom numniv
+niveau	libeniv	RUB+		libeniv est une nouvelle rubrique
+Filière		TAR	119	nouvelle taille enregistrement : 119
+Filière	dateinscrip	RUB+		dateinscrip est une nouvelle rubrique
