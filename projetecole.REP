@@ -1,3 +1,13 @@
 ;PCSoft - Hyper File V7.00 - REP V7.00
 ;Do not edit. Please use specific tools.
 ANALYSISGUID=1	;Analysis GUID
+LOCALIZATION_UTF8=98844338D4BD41A086FB432CD7B387FE	inscription	C:\Mes Projets\projetecole\Exe\inscription.fic
+LOCALIZATION_UTF8=4FAF15E30F084A9D88342769EC53695F	etudiant	C:\Mes Projets\projetecole\Exe\etudiant.fic
+LOCALIZATION_UTF8=CAF3953014AD4B89A5CFFB361E640A82	tuteur	C:\Mes Projets\projetecole\Exe\tuteur.fic
+LOCALIZATION_UTF8=355F31073B9E403392C384E86707EF2A	paiement	C:\Mes Projets\projetecole\Exe\paiement.fic
+LOCALIZATION_UTF8=D7B0D7BC0AF742E3A9835978CFB4F409	Personnel	C:\Mes Projets\projetecole\Exe\Personnel.fic
+LOCALIZATION_UTF8=9D9B886F3BE84857911FBB66850ACB10	Ecole	C:\Mes Projets\projetecole\Exe\Ecole.fic
+LOCALIZATION_UTF8=D2327D6AF1794ADDAC63E2B4FF4687F1	Fondateur	C:\Mes Projets\projetecole\Exe\Fondateur.fic
+LOCALIZATION_UTF8=9BF1867B79BD4E61B7A036DB0AD8567D	Peut_Avoir	C:\Mes Projets\projetecole\Exe\Ecole_Fondateur.fic
+LOCALIZATION_UTF8=73639154D57D44E8B7E8D9CA254F6AE2	Salle	C:\Mes Projets\projetecole\Exe\Salle.fic
+LOCALIZATION_UTF8=B6F95569D43B40AAB1321C661758E813	Année_Academique	C:\Mes Projets\projetecole\Exe\Année_Academique.fic
